@@ -1,0 +1,3 @@
+Wanted to create a sparkle material:
+- Created a noise texture
+- 
