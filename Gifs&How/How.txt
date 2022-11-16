@@ -9,7 +9,7 @@ shows when the sun is on the material.
 - HiddenPortal shader. A shader that calculates where the player is and the object. At a certain distance make the object invisable.
 
 - "Powerups shaders" 
-powerupball - powerup inspired of a snowstorm.Three lerping colours and with a moving normalmap texture.
-powerupball2 - icey powerup with a icey chell with a moving texture, and white in the edges
-powerupball3 - Powerup mixed with insparation from the other two powerups and the sparkeling snow. Using layers that moves in differnt and looks like the are inside 
+Light blue/white powerupball - Powerup inspired of a snowstorm.Three lerping colours and with a moving normalmap texture.
+Transparant icy powerupball2 - Icey powerup with a icey chell with a moving texture, and white in the edges
+Dark blue powerupball3 - Powerup mixed with insparation from the other two powerups and the sparkeling snow. Using layers that moves differnt and looks like the are inside 
 and in fron of the ball. Same for the sparkeling. Added a edge glow and a inner glow to spice upp the powerball and used many differnet colors.
